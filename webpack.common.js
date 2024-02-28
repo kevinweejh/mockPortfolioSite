@@ -5,7 +5,7 @@ module.exports = {
   entry: './src/index.js',
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Restaurant de la Victoire',
+      title: 'Mock Portfolio Site',
       template: './src/template.html'
     }),
   ],
